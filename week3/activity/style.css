@@ -37,7 +37,7 @@ body{
     font-size: 30px;
     font-family: Arial;
     width: 300px;
-    border-bottom: solid 2px;
+    border-bottom: solid 3px;
     text-align: center;
 }
 
@@ -125,4 +125,5 @@ p{
     color: white;
 
 }
+
 
