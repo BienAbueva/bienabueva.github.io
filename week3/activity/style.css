@@ -117,8 +117,10 @@ p{
     color: red;
     text-decoration: underline red;
     font-family: Arial;
+    font-weight: bold;
 }
 
 .ul{
     color: white;
+
 }
