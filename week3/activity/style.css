@@ -1,0 +1,124 @@
+body{
+    background-color:  #16365d;
+    background-size: cover;
+}
+
+.head1{
+    text-align: right;
+    color: white;
+    font-family: Arial;
+}
+
+.head2{
+    color: red;
+    font-family: Arial;
+}
+
+.head3{
+    color: white;
+    text-align: left;
+    background-color: black;
+    background-size: 20% ;
+    width: 600px;
+    height: 60px;
+    border-left: solid red;
+    border-top: solid red;
+    font-family: Arial;
+}
+
+.head4{
+    color:rgb(0, 255, 21);
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.head5{
+    color: yellow;
+    font-size: 30px;
+    font-family: Arial;
+    width: 300px;
+    border-bottom: solid 2px;
+    text-align: center;
+}
+
+p{
+    color: white;
+    font-family: Arial;
+}
+
+.p1{
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+.p2{
+    color: white;
+    font-family: Arial;
+    text-align: right;
+}
+
+.p3{
+    color: white;
+    font-style: italic;
+    background-color: black;
+    padding: 25px;
+    border-left: solid red;
+    border-right: solid yellow;
+}
+
+.p4{
+    background-color:red;
+}
+
+.sen1{
+    color: yellow;
+    text-decoration: underline yellow;
+}
+
+.sen2{
+    color: rgb(50, 50, 236);
+}
+
+.sen3{
+    color:rgb(0, 255, 21);
+    font-weight: bold;
+}
+
+.sen4{
+    color: darkblue;
+    font-style: italic;
+}
+
+.sen5{
+    color: red;
+    font-family: Arial;
+}
+
+.sen6{
+    color: black;
+    background-color: rgb(0 , 255 , 21) ;
+    font-family: arial;
+    font-weight: bold;
+}
+
+.tabl{
+    color:red;
+    font-style: italic;
+    font-family: Arial;
+}
+
+.fots{
+    color: rgb(202, 60, 181);
+    font-family: Arial;
+}
+
+.doc{
+    color: red;
+    text-decoration: underline red;
+    font-family: Arial;
+}
+
+.ul{
+    color: white;
+}

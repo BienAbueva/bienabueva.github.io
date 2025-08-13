@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+body{
+    background-image:url("../week1/im2.webp");
+    background-size: cover;
+}
+h1{
+    background-color: rgb(255, 145, 0);
+    color: aqua;
+    font-size: 100px;
+    text-align: center;
+    width: 100px;
+    padding: 50px;
+    border: 4px solid rgb(255, 145, 0);
+}
+.toph{
+    color: black ;
+    font-size: 100px;
+    background-color: rgb(4, 0, 255);
+    width: 100px;
+    padding: 50px;
+    text-align: center;
+}
+p{
+    color: black;
+    font-family: Verdana;
+    background-color: rgb(101, 115, 243);
+    width: 400px;
+    padding: 100px;
+    font-size: 100px;
+    text-align: center;
+    font-family: "Potta One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+
+}
+.par1{
+    color: rgb(255, 0, 255);
+    font-style: italic;
+}
